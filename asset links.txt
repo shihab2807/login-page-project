@@ -1,0 +1,44 @@
+navigation bar logos
+    <img src="https://www.paramvah.com/images/icon-home.png" alt="">
+    <img src="https://www.paramvah.com/images/icon-about.png" alt="">
+    <img src="https://www.paramvah.com/images/icon-film.png">
+    <img src="https://www.paramvah.com/images/logo.png" width="185" alt="app logo">
+    <img src="https://www.paramvah.com/images/icon-career.png" alt="">
+    <img src="https://www.paramvah.com/images/icon-Service.png" alt="">
+    <img src="https://www.paramvah.com/images/icon-contact.png" alt="">
+
+
+slider images link
+
+    https://www.paramvah.com/images/banner/bheemsena-nalamaharajat-Poster1.jpg
+    https://www.paramvah.com/images/banner/humble-politician-nograj-1.jpg
+    https://www.paramvah.com/images/banner/Kirik-Part-Poster2.jpg
+    https://www.paramvah.com/images/banner/humble-politician-nograj-2.jpg
+    https://www.paramvah.com/images/banner/Kirik-Part-Poster3.jpg
+    https://www.paramvah.com/images/banner/IbbaniTabbidaileyali.jpg
+    https://www.paramvah.com/images/banner/BachelorParty.jpg
+    https://www.paramvah.com/images/banner/777Charlie.jpg
+    https://www.paramvah.com/images/banner/Mithya.jpg
+    https://www.paramvah.com/images/banner/Abracadabra.jpg
+    https://www.paramvah.com/images/banner/KatheyonduShuruvaagide.jpg
+    https://www.paramvah.com/images/banner/AvaneSrimannarayana-1.jpg
+    https://www.paramvah.com/images/banner/SapthaSagaradaacheEllo.jpg
+
+
+moviename background pic 
+    https://www.paramvah.com/images/grungBg.png 
+
+
+movie youtube trailer embeded code (from youtube)
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/EHUnXT9eTHk" title="Torture Song (Kannada) - 777 Charlie | Rakshit Shetty | Kiranraj K | Nobin Paul | Paramvah Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/bmAnwpNyOVo" title="777 Charlie Official Teaser (Kannada) | Rakshit Shetty | Kiranraj K | Nobin Paul | Paramvah Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/epk3oIjtdOw" title="Sapta Sagaradaache Ello Launch Video - Rakshit Shetty, Rukmini | Hemanth M Rao | Paramvah Pictures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/2VSruD6PPvg" title="Life Of Dharma - 777 Charlie | Rakshit Shetty | Kiranraj K | Paramvah Studios | Pushkar Films" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/g7fhwg2ICbs" title="Avane Srimannarayana - Official Teaser 2 | Rakshit Shetty | Pushkar Films | Sachin | Shanvi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <iframe width="443" height="315" src="https://www.youtube.com/embed/IfvnbER_6sQ" title="Kirik Party | Official Trailer with English Subtitles - Rakshit Shetty | Rashmika | Samyuktha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
